@@ -18,6 +18,11 @@ Q. Why couldn't 4 ask 5 out on a date?
 A. Because he was 2²
 ```
 
+```
+Q. What did the man say after digging three holes in the yard?
+A. “Well, well, well”
+```
+
 # GIFz
 
 - Nothing to see here, yet!
