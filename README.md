@@ -23,6 +23,11 @@ Q. What did the man say after digging three holes in the yard?
 A. “Well, well, well”
 ```
 
+```
+Q. Why did the can crusher quit his job?
+A. Because it was soda pressing
+```
+
 # GIFz
 
 - Nothing to see here, yet!
