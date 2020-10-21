@@ -13,7 +13,10 @@ Please keep the humour clean, light and without prejudice. Rule breakers won't g
 
 # Jokez
 
-- Nothing to see here, yet!
+```
+Q. Why couldn't 4 ask 5 out on a date?
+A. Because he was 2²
+```
 
 # GIFz
 
