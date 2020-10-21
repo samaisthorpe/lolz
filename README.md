@@ -30,4 +30,5 @@ A. Because it was soda pressing
 
 # GIFz
 
-- Nothing to see here, yet!
+Post leg-day in the gym:
+![Post leg-day in the gym](gifz/cats.gif)
