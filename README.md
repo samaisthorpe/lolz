@@ -2,11 +2,11 @@
 
 The rules are simple.
 
-- `git clone` the repo
+- Fork the repo
 - Make a new branch
 - Edit the README.md file
 - `git commit` the branch
-- Open a PR for your new branch
+- Open a PR for your new branch against this repo
 - Profit
 
 Please keep the humour clean, light and without prejudice. Rule breakers won't get their PRs merged.
