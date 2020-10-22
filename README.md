@@ -33,6 +33,11 @@ Q. What's the best thing about UDP jokes
 A. I don't care if you get them
 ```
 
+```
+Q. Why are there no aspirin in the jungle?
+A. Because the parrots eat 'em all.
+```
+
 # GIFz
 
 Post leg-day in the gym:
