@@ -28,6 +28,11 @@ Q. Why did the can crusher quit his job?
 A. Because it was soda pressing
 ```
 
+```
+Q. What's the best thing about UDP jokes
+A. I don't care if you get them
+```
+
 # GIFz
 
 Post leg-day in the gym:
