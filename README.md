@@ -33,3 +33,24 @@ A. Because it was soda pressing
 Post leg-day in the gym:
 
 ![Post leg-day in the gym](gifz/cats.gif)
+
+# Memez
+
+So, it was true!:
+
+![So, it was true!](memes/nigerian-billions.jpg)
+
+What is the point?
+
+![What is the point](memes/pointless-code.jpg)
+
+LOL, exactly!
+
+![LOL, exactly!](memes/it-vs-user.jpg)
+
+
+# Videoz
+
+Clever Cat!
+
+[![Clever Cat](https://i.ytimg.com/vi/OKsyMxUX7R0/hqdefault.jpg)](https://www.youtube.com/watch?v=OKsyMxUX7R0)
