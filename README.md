@@ -73,7 +73,6 @@ A. Because the parrots eat 'em all.
 Q. What's the fastest substance on Earth?
 A. Milk. It's pasteurised before you even see it.
 ```
-
 # GIFz
 
 Post leg-day in the gym:
