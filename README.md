@@ -29,8 +29,44 @@ A. Because it was soda pressing
 ```
 
 ```
+Me: "I'm not very hungry, I just want something easy"
+
+Server: "... maybe the chicken strips for £6?"
+
+Me: "... maybe it does, but that doesn't help with my hunger."
+```
+
+```
+A hypnotist once convinced me I was a soft, malleable metal with the atomic number 82.
+
+I'm easily Lead.
+```
+
+```
+Just been on a diabetes awareness website and it asked me if I accept cookies.
+Is that a trick question?
+```
+
+```
+A hypnotist once convinced me I was a soft, malleable metal with the atomic number 82.
+
+I'm easily Lead.
+```
+
+```
+Just been on a diabetes awareness website and it asked me if I accept cookies.
+
+Is that a trick question?
+```
+
+```
 Q. What's the best thing about UDP jokes
 A. I don't care if you get them
+```
+
+```
+Q. Why are there no aspirin in the jungle?
+A. Because the parrots eat 'em all.
 ```
 
 # GIFz
@@ -38,6 +74,18 @@ A. I don't care if you get them
 Post leg-day in the gym:
 
 ![Post leg-day in the gym](gifz/cats.gif)
+
+GIF Season:
+
+![POST GIF Season](gifz/gif-season.gif)
+
+Ninja Cat:
+
+![POST Ninja Cat](gifz/cat-backflip.gif)
+
+Exactly:
+
+![POST Ninja Cat](gifz/Fixing_bugs_in_production.gif)
 
 # Memez
 
@@ -53,6 +101,25 @@ LOL, exactly!
 
 ![LOL, exactly!](memes/it-vs-user.jpg)
 
+Thanks, Brendan...
+
+![Thanks, Brendan...](memes/thanks-brendan.jpg)
+
+Nice!
+
+![Nice!](memes/paperclips.jpg)
+
+Would you?
+
+![Would you?](memes/baby-names.jpg)
+
+Whoops!
+
+![Whoops!](memes/accidental-resignation.jpg)
+
+LOL!
+
+![LOL!](memes/bread.jpg)
 
 # Videoz
 
