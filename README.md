@@ -101,6 +101,10 @@ LOL, exactly!
 
 ![LOL, exactly!](memes/it-vs-user.jpg)
 
+Thanks, Brendan...
+
+![Thanks, Brendan...](memes/thanks-brendan.jpg)
+
 Nice!
 
 ![Nice!](memes/paperclips.jpg)
