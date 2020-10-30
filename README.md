@@ -125,6 +125,10 @@ LOL!
 
 ![LOL!](memes/bread.jpg)
 
+Smart!
+
+![Smart!](memes/space-saving.jpg)
+
 # Videoz
 
 Clever Cat!
